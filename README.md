@@ -55,6 +55,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **Non spécifié**
+* **test conflit**
 * ** test en ligne avec modif sur la meme ligne
 
 ## License
